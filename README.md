@@ -1,6 +1,6 @@
 # SQLAlchemy_Challenge
 
-This challenge was about climate analysis of Honolulu, Hawaii to aid planning of a long holiday vacation there. 
+This challenge was about climate analysis in Honolulu, Hawaii to aid planning of a long holiday vacation there. 
 
 ## Part 1: Analyze and Explore the Climate Data
 In this section, i used Python and SQLAlchemy to do a basic climate analysis and data exploration of the climate database. Specifically, i used SQLAlchemy ORM queries, Pandas, and Matplotlib. 
